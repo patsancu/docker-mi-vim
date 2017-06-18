@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir -p /home/developer/.vim_runtime/temp_dirs
+sh ~/.bashrc
+cd /home/developer
+#vim $@
+sh
